@@ -1,130 +1,28 @@
 ---
-title: My first post
-author: Dennis Brotzky
-date: 2019-04-30
-hero: ./images/hero.jpg
-excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
+title: Welcome to my Room
+author: A Voice in the Wilderness
+date: 2020-05-05
+excerpt: ""
+hero: images/copy.webp
 ---
+<!--StartFragment-->
 
-My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://google), and built for everyone that loves the web.
+COVID19 has caused me to become obsessed with the Scrabble Go app even though I am clearly not winning games. But it keeps me connected to my family across the United States. I love to see my Brother or sisters name come up that they just played their turn. It lets me know across the many miles that we are present together in the words on the board.
 
-## Headers
+In the past few years I have come to this place of connectedness. I know I am not the first to have arrived here. I hear others talk about it in things I read, or movies I watch. But I tell you sometimes I think I am the last to see it. My spiritual director calls it the narrow gate, I like to call it living in the present moment. It seemed I had lived here for a time when I was younger but as the stresses of life and the pain of loss pressed in it seems I had a whole other life. This was the middle part I guess. It lasted a good twenty plus years before I was able to emerge transformed. Please understand that I don’t think I have “arrived”, in fact many times I feel I am late to the game. Even in these most difficult times of shelter in place I see the silver lining (most days). I think this is what they call hope, not just the sentiment of the word but more than that. It’s in me and it can’t be separated from me. I mean it’s weird because for so long I faked hope or I strove for hope only to fail in achieving it.
 
-# H1
+I think the magic started when I connected my mind and body and spirit. This was not an easy task. In fact I am told not many want to take it on. It’s an inside job. There is only one person that can do it. It’s the person themselves. Finger pointing ends here and all your left with is your reflection in the mirror. It’s not fun, but it is so worth it! I didn’t have a lot of money. I couldn’t afford a therapist, I mean who can? So I went where it was free. I had a faith, it was deep down, I knew about it but I hadn’t experienced it. I sought help at the only church I knew and the only church I felt at home in. It was the Catholic Church. And during those middle years I drank deeply from the well of knowledge that it held for over two thousand years and believe it or not I found freedom within its walls.
 
-It is recommended to NOT use H1s as it is reserved for the article heading. Any H1 is set as an H2.
+My morning time of prayer and meditation turned into more than the rote prayers I leaned on when I didn’t have any of my own words. One morning while I was spending time in silence I was led to an interview through a reflection I was doing between [Bono of U2 and Eugene H Peterson](https://www.youtube.com/watch?v=-l40S5e90KY&t=655s), the author of The Message. I think what I want to say is best taken from this translation,
 
-## H2
+“ …Trust me. There is plenty of room for you in my Father’s home. If it weren’t so would I have told you that I am on my way to get a room ready for you? And if I’m on my way to get your room ready, I ‘ll come back and get you so you can live where I live. And you already know the road I am taking…..Jesus said, I am the Road, also the Truth, also the Life….if you knew me you would know my Father” John 14:2.
 
-### H3
+Through inner work we uncover our true self and we meet our maker. It seems then that all the doors of the rooms are open, I can go in and out exploring and finding a common connection with the people I meet who are in different places. My hope with this blog is that I can provide a source for reflection. The result would be, an exchange of Good will, a sharing of beliefs.
 
-#### H4
+Be well and be kind.
 
-##### H5
+Photo credit [Joshua Sortino](http://sortino.co/)
 
-###### H6
 
-## Emphasis
 
-Emphasis, aka italics, with _asterisks_ or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-## Lists
-
-1. First ordered list item
-2. Another item
-3. Actual numbers don't matter, just that it's a number
-
-- Unordered list can use asterisks
-
-* Or minuses
-
-- Or pluses
-
-## Links
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-## Images
-
-<div className="Image__Small">
-  <img
-    src="./images/article-image-2.jpg"
-    title="Logo Title Text 1"
-    alt="Alt text"
-  />
-</div>
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-
-## Code and Syntax Highlighting
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
-
-### JSX
-
-```jsx
-import React from "react";
-import { ThemeProvider } from "theme-ui";
-import theme from "./theme";
-
-export default props => (
-  <ThemeProvider theme={theme}>{props.children}</ThemeProvider>
-);
-```
-
-## Blockquotes
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.
-
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
-
-## Horizontal Rule
-
-Horizontal Rule
-
-Three or more...
-
----
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
-
----
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+<!--EndFragment-->
