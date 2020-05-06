@@ -1,7 +1,7 @@
 ---
 title: Full of Air (Brain Health)
 author: A Voice in the Wilderness
-date: 2020-05-05T00:00:00.000Z
+date: 2020-05-04
 hero: images/hot-air-balloon-1452711932549-e7ea7f129399.jpg
 ---
 I have five brothers and sisters. When we were growing up as Halloween approached we would turn our backyard into a haunted house. For fifty cents we would take the neighborhood kids through it. The first section we would apply a blindfold and have them touch a variety of things. One was a bowl full of mushy wet toilet paper and we would tell them it was a brain. 
