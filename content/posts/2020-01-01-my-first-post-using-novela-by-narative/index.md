@@ -3,7 +3,7 @@ title: Welcome to my Room
 author: A Voice in the Wilderness
 date: 2020-05-05T00:00:00.000Z
 excerpt: ""
-hero: images/copy.webp
+hero: images/door-1538766017398-415434a31a5b.jpg
 ---
 <!--StartFragment-->
 
@@ -21,8 +21,6 @@ Through inner work we uncover our true self and we meet our maker. It seems then
 
 Be well and be kind.
 
-Photo credit [Joshua Sortino](http://sortino.co/)
-
-
+Photo credit[ Jan Tinneberg](http://www.unsplash.com/@craft_ear)
 
 <!--EndFragment-->
