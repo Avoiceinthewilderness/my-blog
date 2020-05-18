@@ -2,7 +2,7 @@
 title: Battle Ready
 author: A Voice in the Wilderness
 date: 2020-05-17T00:00:00.000Z
-hero: images/img_4003.jpg
+hero: images/img_4003-3-.jpg
 ---
 Today I went in for battle. I could only think I was made for this. They call it donning and doffing, these are terms that describe the putting on and off your battle gear, or in this case, scrubs. In this picture I am still not fully suited, I am missing a disposable gown and face shield, but at fifty plus, hot flashes come easy so I chose to pose without them.
 
