@@ -1,0 +1,21 @@
+---
+title: You Are What You Eat
+author: A Voice in the Wilderness
+date: 2020-05-21T00:00:00.000Z
+hero: images/evi-radauscher-nllvbb9slts-unsplash-1-.jpg
+---
+Over the COVID hiatus from work I was able to delve deeper into the perils of inflammation. I have been fighting inflammation in the gum tissue as a dental hygienist for thirty years. Since I have been in dentistry the profession has always seemed to be separated from Medical Practice. As if the head and neck aren’t connected to the rest of the body.
+
+And so I was reading up on the link of periodontal inflammation and diabetes in [The Shift by De Witt C Wilkerson ](https://www.amazon.com/Shift-Dramatic-Movement-Centered-Dentistry/dp/0998533629)DMD. It seems there is a back and forth between the two. One upsets the other and it’s a constant duel within the body. Diet is a huge factor when speaking about diabetes, but also inflammation. So many different factors play in, while it’s diet, it’s also stress, lack of exercise and a general malaise of care for ones body as evidenced by the overload of health issues present today and crippling the health care system. 
+
+But let’s just focus on food here. When I was trained to be a nutritional counselor in school it was pretty basic. The basic food groups and the fact that raw foods like carrots and celery are good for you and they also work as natural toothbrushes, so pack them in your lunch and end your meal with them. But today, there are so many things we know! So much science pointing to how much the food grown from the earth aids our bodies and overall controls inflammation within them.[ St Hildegard of Bingen](https://www.franciscanmedia.org/saint-hildegard-of-bingen/) back in 1100 AD used food to cure illnesses. The old adage, "you are what you eat", speaks loudly here.
+
+There is another place in my life where this speaks louder. Ever since I was seven years old and I dressed up in the hand me down white communion dress with the patten leather Mary Janes that were all scuffed up because they were also handed down to me by my two older sisters... I believed. Actually, I don’t know if I really believed yet, but I was told to believe. And so I did, I told myself when you put that white circular piece of wheat from your hand into your mouth I was eating God, well,  really—the Body of Christ, which is technically God. So if any of you saw that[ AFV](https://www.afv.com/) winner[ of the girl who had her wisdom teeth pulled ](https://www.youtube.com/watch?v=EMW9p53Taok)when she was told there was gauze in her mouth but she thought they said “God was in her mouth” although its funny, I thought, it is true. He humbles himself and comes to us in simple bread to feed us so that we can be the salt of the earth and take Him to the world after we receive. 
+
+But it seems these days, I, along with 1.2 Billion Catholics in the world, except for a few because they are a priest or know one well, have not been able to receive this food that feeds our souls and nourishes us beyond anything else we ever believed. The Eucharist is our food. But I have not cried because of it. I have continually received him spiritually through my contemplation and action of life as it is right now. Honestly I have never felt more connected. But this morning I heard there was a place I could maybe receive The physical Eucharist and the key word is maybe, but I would have missed the morning walk with my daughter when we often communicate many things from our souls. And this for me is a communion in itself. In fact never before have I been able to share my faith with my children as I have during this time of quarantine and I am grateful.
+
+So until that Eucharist is a sure thing. And until the Church officially opens, I will be content with what God has been revealing to me, that he means it when he says, “I will never leave you or forsake you”. As for my physical body, it seems this time of quarantine has finally gotten me to listen to my husband who believes deeply in eating Whole Foods in order to live well. It seems we are a good balance this way as husband and wife, the connection of body and spirit helps to bring wholeness. 
+
+So be careful in what you consume these days. You just may become it....
+
+Photo Credit [Eva Radausher](https://unsplash.com/@eviradauscher)
