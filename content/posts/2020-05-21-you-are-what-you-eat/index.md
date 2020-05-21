@@ -1,7 +1,7 @@
 ---
 title: You Are What You Eat
 author: A Voice in the Wilderness
-date: 2020-05-21
+date: 2020-05-21T00:00:00.000Z
 hero: images/evi-radauscher-nllvbb9slts-unsplash-1-.jpg
 ---
 Over the COVID hiatus from work I was able to delve deeper into the perils of inflammation. I have been fighting inflammation in the gum tissue as a dental hygienist for thirty years. Since I have been in dentistry the profession has always seemed to be separated from Medical Practice. As if the head and neck aren’t connected to the rest of the body.
@@ -17,3 +17,5 @@ But it seems these days, I, along with 1.2 Billion Catholics in the world, excep
 So until that Eucharist is a sure thing. And until the Church officially opens, I will be content with what God has been revealing to me, that he means it when he says, “I will never leave you or forsake you”. As for my physical body, it seems this time of quarantine has finally gotten me to listen to my husband who believes deeply in eating Whole Foods in order to live well. It seems we are a good balance this way as husband and wife, the connection of body and spirit helps to bring wholeness. 
 
 So be careful in what you consume these days. You just may become it....
+
+Photo Credit [Eva Radausher](https://unsplash.com/@eviradauscher)
