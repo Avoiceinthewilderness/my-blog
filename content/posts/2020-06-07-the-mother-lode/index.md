@@ -1,8 +1,8 @@
 ---
 title: The Mother Lode
 author: A Voice in the Wilderness
-date: 2020-06-07
-hero: images/mustafa-omar-tez8ju1j-00-unsplash.jpg
+date: 2020-06-07T00:00:00.000Z
+hero: images/img_1593.jpg
 ---
 You know about the wrestling that goes on in the middle of the night. Those minutes or hours it seems that you tossand turn yanking the covers tighter to you as if they will somehow snuggle you to sleep. I have probably recited that prayer I was taught as a child, The Hail Mary, a billion times by now. The words just repeat and they are somehow like sheep jumping over fences until I sleep again. Well, I had one of those nights. I feel akin to Jacob at the base of the ladder, ( see Genesis 28) It was a full on battle. And it went on in my mind. The great battlefield of today. 
 
@@ -18,7 +18,7 @@ A mother’s love is sometimes all that is needed to lift the spirit, to encoura
 
 As a Catholic I had a Mother I could look to. While this subject is of great dissension amongst the different sects of Christianity I can only speak from my place of personal experience and understanding. I have always known the good Mother, she was always there in the distance, looking to perfect to be true. In films there are always metaphors for her. She was the Fairy God Mother in Cinderella and I saw her most recently in the very human depiction of Carmela Soprano, preformed by [Edie Falco, in the HBO Series, The Soprannos](https://www.hbo.com/the-sopranos). They would go to the end for their child. A good mother is gentle and fierce with love.
 
-When I married thirty years ago, at the end of the ceremony I left my bouquet at the feet of the great Matriarch, whom we call in the Church, Mary, Queen of Heaven. She was untouchable. She was a vision for me but unreachable in every way, but she was always there in the distance. She has been seen by many of all cultures and she is always depicted as their very own Mother. She transcends color and race; she is all colors. She is everyone’s mother. She has many names,[ Our Lady of Fatima](https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima), [Our Lady of Guadalupe](https://en.wikipedia.org/wiki/Our_Lady_of_Guadalupe), , and one I recently stumbled upon during my travels to South America while touring Machu Picchu. She is Zacha Mama and she is Maternal Wisdom, Mother Earth. She is depicted with the belly of a pregnant woman and within, it is all of humanity.
+When I married thirty years ago, at the end of the ceremony I left my bouquet at the feet of the great Matriarch, whom we call in the Church, Mary, Queen of Heaven. She was untouchable. She was a vision for me but unreachable in every way, but she was always there in the distance. She has been seen by many of all cultures and she is always depicted as their very own Mother. She transcends color and race; she is all colors. She is everyone’s mother. She has many names,[ Our Lady of Fatima](https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima), [Our Lady of Guadalupe](https://en.wikipedia.org/wiki/Our_Lady_of_Guadalupe), , and one I recently stumbled upon during my travels to South America while touring Machu Picchu. She is Zacha Mama and she is Maternal Wisdom, Mother Earth. She is depicted with the belly of a pregnant woman and within, it is all of humanity. I cannot provide a link to this as I took this photo while touring Aguas Calientas and the catholic heritage of the Inca people. I also snapped a picture of the inscription of who this was and it is too long to post here. But it opened my eyes to others ideas of the Good Mother.
 
 I think I found the Mother Lode. It comes not only in a good Father but also a good Mother. Perhaps that is why our first words seem to be "Dadda", and when we are close to death there is only one word that finds its way to our lips, is "Momma". For me this revelation was the mother lode of all treasures. She is love.
 
