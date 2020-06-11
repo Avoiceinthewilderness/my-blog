@@ -2,7 +2,7 @@
 title: Modern Art
 author: A Voice in the Wilderness
 date: 2020-06-11T00:00:00.000Z
-hero: images/18476592745_feeb0b812c_o-1-.jpg
+hero: images/red-skies.jpg
 ---
 
 
