@@ -18,4 +18,4 @@ All I know is that after following the straight and narrow, after living so vert
 
 My dad loved to work with wood. He has built things for as long as I can remember. I have these old ladder chairs that he lamented getting rid of when we cleaned out their attic recently. He bought all four of them at a garage sale for twelve dollars sixty years ago and they were my mom and his dining room chairs. They shared many meals sitting in those chairs.  They were falling apart and he pit them back together and now they sit in my house today because I know how much they meant to him. They are a symbol of love and fidelity. For me they represent integrity. In a day when even the word love can be overused I can always look to my parents with gratitude for the faith they lived and passed on to me. God is love. And in my belief, He is what hangs there in the middle of every paradox. He is the Way, the Truth, The Life.
 
-[Jezael Melgosa](https://unsplash.com/@jezael)
+Photo credit [Jezael Melgosa](https://unsplash.com/@jezael)
