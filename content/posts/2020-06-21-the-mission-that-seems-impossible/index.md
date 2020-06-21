@@ -1,5 +1,5 @@
 ---
-title: The Mission that Seems Impossible
+title: A Father's Love
 author: A Voice in the Wilderness
 date: 2020-06-21T00:00:00.000Z
 hero: images/jezael-melgoza-e4b-plxipv4-unsplash.jpg
