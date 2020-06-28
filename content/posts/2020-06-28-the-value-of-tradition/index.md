@@ -1,7 +1,9 @@
 ---
-title: The Value of Tradition
+title: There is Value in Tradition
 author: A Voice in the Wilderness
-date: 2020-06-27
+date: 2020-06-27T00:00:00.000Z
 hero: images/lili-popper-lu15z1m_kfm-unsplash-1-.jpg
 ---
+
+
 Photo credit [Lili Popper](https://unsplash.com/@lili_popper?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
