@@ -1,10 +1,10 @@
 ---
 title: What is in a Word?
 author: A Voice in the Wilderness
-date: 2020-09-26
+date: 2020-09-26T00:00:00.000Z
 hero: images/aaron-burden-4ux_r8ohj_o-unsplash.jpg
 ---
-Words are what are seen and known. It is how we learn to know and how we teach others to know. I I have been obsessed with the written word for most of my life. As a child it began with VC Andrews and the Attic Series. It extended into music of my times, which seem to be making their way back into my life as I saw my daughter wearing a Pink Floyd shirt the other day. She had never heard one of their songs so I quickly pulled up my playlist and gave her a taste. I could tell she wasn’t moved by the words of, Wish YouWere Here, like I was. 
+> Words are what are seen and known. It is how we learn to know and how we teach others to know. I I have been obsessed with the written word for most of my life. As a child it began with VC Andrews and the Attic Series. It extended into music of my times, which seem to be making their way back into my life as I saw my daughter wearing a Pink Floyd shirt the other day. She had never heard one of their songs so I quickly pulled up my playlist and gave her a taste. I could tell she wasn’t moved by the words of, Wish YouWere Here, like I was. 
 
 So while a word is what can be seen, it is also something that can be felt. But they are never seen and felt the same, ever. No two people will draw the same image, have the same tug at their heart, see the same humor, are taken back to the same time or have the same hope for the future. There can be a general understanding but ultimately it is an individual happening.
 
