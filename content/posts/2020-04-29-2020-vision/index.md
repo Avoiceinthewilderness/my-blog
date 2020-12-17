@@ -1,6 +1,6 @@
 ---
 title: 2020 Vision
-author: A Voice in the Wilderness
+author: Kelly Leisten
 date: 2020-04-29T00:00:00.000Z
 hero: images/93796301_1274545569602855_3027461956631003136_n.jpg-2020vision.jpg
 ---
