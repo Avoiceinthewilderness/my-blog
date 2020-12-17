@@ -1,6 +1,6 @@
 ---
 title: The Journey
-author: A Voice in the Wilderness
+author: Kelly Leisten
 date: 2020-05-30T00:00:00.000Z
 hero: images/jordan-madrid-idzkdni7qgc-unsplash.jpg
 ---
