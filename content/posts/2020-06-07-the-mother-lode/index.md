@@ -1,6 +1,6 @@
 ---
 title: The Mother Lode
-author: A Voice in the Wilderness
+author: Kelly Leisten
 date: 2020-06-07T00:00:00.000Z
 hero: images/img_1593.jpg
 ---
