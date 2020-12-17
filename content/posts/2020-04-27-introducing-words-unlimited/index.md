@@ -1,6 +1,6 @@
 ---
 title: Introducing Words Unlimited
-author: A Voice in the Wilderness
+author: Kelly Leisten
 date: 2020-04-27T00:00:00.000Z
 hero: images/photo-1476610182048-b716b8518aae.jpg
 ---
