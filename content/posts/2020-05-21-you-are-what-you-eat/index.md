@@ -1,6 +1,6 @@
 ---
 title: You Are What You Eat
-author: A Voice in the Wilderness
+author: Kelly Leisten
 date: 2020-05-21T00:00:00.000Z
 hero: images/evi-radauscher-nllvbb9slts-unsplash-1-.jpg
 ---
