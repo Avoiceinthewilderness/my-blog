@@ -1,6 +1,6 @@
 ---
 title: Battle Ready
-author: A Voice in the Wilderness
+author: Kelly Leisten
 date: 2020-05-17T00:00:00.000Z
 hero: images/img_4003-3-.jpg
 ---
